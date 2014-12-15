@@ -10,4 +10,4 @@ Spring MVC Tiles 3 integration
 
 <img src="http://www.techzoo.org/wp-content/uploads/2014/07/tiles-diagram.png" />
 
-<p>You can view complete <a href="http://www.techzoo.org/spring-framework/spring-mvc-tiles-3-integration-tutorial.html">Spring MVC Tiles 3 integration</a> post on my Blog.</p> 
+<p>You can view complete <a href="http://www.techzoo.org/spring-framework/spring-mvc-tiles-3-integration-tutorial.html">Spring MVC Tiles 3 integration</a> post on my blog <a href="http://www.techzoo.org">TechZoo</a>.</p> 
